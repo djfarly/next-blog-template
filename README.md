@@ -1,4 +1,4 @@
-# 🪅 Next Blog Template
+# 🪅 Next Blog With Data
 
 To start click on "Use this template". Then go ahead and build you blog… ✨
 
